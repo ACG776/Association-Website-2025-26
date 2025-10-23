@@ -23,11 +23,11 @@ header nav {
   align-items: center;
   justify-content: center; /* centers everything */
   position: relative;
-  height: 60px;
+  height: 20px;
 }
 
 header nav h1 {
-  font-size: 1.5rem;
+  font-size: 1.9rem;
   color: white;
 }
 
